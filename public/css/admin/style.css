@@ -1,0 +1,18 @@
+#new_loader_image {
+    display: none;
+}
+
+#upload_button,
+#reset_upload_button {
+    margin: 5px 0 0;
+}
+
+.cj-header-image {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.cj-header-image img {
+    max-width: 100%;
+    margin: 0 auto;
+}
